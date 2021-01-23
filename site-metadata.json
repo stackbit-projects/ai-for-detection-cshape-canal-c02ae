@@ -61,7 +61,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
+                "label": "",
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon_class": "twitter",
