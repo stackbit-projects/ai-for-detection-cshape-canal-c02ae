@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: AI for detecting C-shape canals
     image: images/3.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      This is a free and open source project and the source code for this paper:
+      {}.
     actions:
       - label: Get Started
         url: /docs
