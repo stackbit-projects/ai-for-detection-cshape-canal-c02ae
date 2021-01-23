@@ -50,8 +50,8 @@
             },
             {
                 "label": "GitHub Code",
-                "url": "https://github.com/",
-                "style": "primary",
+                "url": "https://github.com/The-ML-Hero/AI-for-detection-Cshape-Canal",
+                "style": "link",
                 "has_subnav": false
             }
         ]
