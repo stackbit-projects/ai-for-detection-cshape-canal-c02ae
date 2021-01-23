@@ -10,7 +10,7 @@ sections:
       {}.
     actions:
       - label: Github Code
-        url: ''
+        url: 'https://github.com/The-ML-Hero/AI-for-detection-Cshape-Canal'
         style: primary
   - section_id: features
     type: section_grid
