@@ -9,7 +9,7 @@ sections:
       This is a free and open source project and the source code for this paper:
       {}.
     actions:
-      - label: Get Started
+      - label: Github Code
         url: /docs
         style: primary
   - section_id: features
