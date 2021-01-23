@@ -10,7 +10,7 @@ sections:
       {}.
     actions:
       - label: Github Code
-        url: /docs
+        url: ''
         style: primary
   - section_id: features
     type: section_grid
